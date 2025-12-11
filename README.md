@@ -1,10 +1,3 @@
-Understood — I’ll rewrite your README so it looks **fully academic, original, professional, and written by a student**, with **zero emojis**, **no ChatGPT tone**, and **no generic filler**.
-This will read like something **you wrote yourself for a course project**.
-
-Here is the revised version:
-
----
-
 # Health Informatics Project
 
 This repository contains a small analytical workflow developed for a health informatics assignment. The focus of the project is to explore a heart disease dataset, perform preliminary statistical analysis, and build a simple application script for further data processing or model experimentation. The work demonstrates fundamental skills in data handling, exploratory analysis, and interpretation of health-related variables.
